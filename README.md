@@ -1,0 +1,1 @@
+This is an App used to record Gym training and Diet. Platform only support Android for now.
